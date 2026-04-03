@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "いのちのせんたく",
+  "base_artist": "whaledontsleep",
+  "createdAt": "2026-04-03T01:06:51.492502Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いのちのせんたく",
+      "artist": "くじら",
+      "has_synced": false,
+      "path": "select/pl_01_いのちのせんたく_くじら.txt"
+    }
+  ]
+}
